@@ -9,7 +9,7 @@
     // CONFIGURATION
     // ========================
     const CONFIG = {
-        API_URL: 'https://nonsynchronously-wiggliest-silas.ngrok-free.dev/api/live-inventory.txt',
+    const API_URL = 'https://19457ba2f7ff.ngrok.app/api/live-inventory.txt',
         COMPANY_NAME: 'Locos Gringos Pick-N-Pull',
         BOT_NAME: 'El Loco',
         BOT_IMAGE: 'https://imgur.com/ygmELqO.jpg',
